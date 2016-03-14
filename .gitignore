@@ -8,3 +8,5 @@
 /.idea
 *.iml
 *platforms
+*node_modules
+*bower_components
